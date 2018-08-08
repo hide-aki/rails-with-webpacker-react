@@ -9,7 +9,7 @@ class ArticleList extends Component {
 
   componentDidMount() {
     fetch('api/articles')
-      .then(response => response.json())  // With fetch you need response.json(). With Axios leave it out.
+      .then(response => response.json())
       .then(data => {
         this.setState({articles: data});
       })
