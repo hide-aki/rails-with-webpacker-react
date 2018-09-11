@@ -1,7 +1,8 @@
 # README
 
 This application goes along with the Build a Rails API with React Tutorial. Instructions on building this app are at:
-Building the Rails API: http://www.techandstartup.org/tutorials/rails-webpacker-react
+
+https://www.techandstartup.com/tutorials/rails-webpacker-react
 
 This application uses the Rails Webpacker gem to integrate a React Front End with a Rails Back End and has full CRUD capabilities.
 
